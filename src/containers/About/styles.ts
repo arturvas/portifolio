@@ -5,6 +5,6 @@ export const GithubSection = styled.div`
   margin-bottom: 64px;
 
   img {
-    height: 157px;
+    height: 165px;
   }
 `
