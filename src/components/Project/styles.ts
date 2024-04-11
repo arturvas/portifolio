@@ -12,5 +12,5 @@ export const BtnLink = styled.a`
   background-color: #4476bf;
   text-decoration: none;
   padding: 8px;
-  margin: 24px;
+  margin-top: 24px;
 `
