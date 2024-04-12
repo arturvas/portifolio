@@ -13,11 +13,11 @@ const About = () => (
     </Paragraph>
     <GithubSection>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=arturvas&custom_title=Artur%20Vasconcelos%20GitHub%20Stats&show_icons=true&hide=stars&theme=transparent&bg_color=2ea0431a&ring_color=39d353&border_color=2ea04366&text_color=2f81f7&icon_color=39d353&title_color=2f81f7"
+        src="https://github-readme-stats.vercel.app/api?username=arturvas&custom_title=Artur%20Vasconcelos%20GitHub%20Stats&show_icons=true&card_width=440&hide=contribs&theme=github_dark_dimmed&"
         alt="GitHub Stats"
       />
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturvas&show_icons=true&theme=transparent&layout=compact&bg_color=2ea0431a&border_color=2ea04366&text_color=2f81f7&icon_color=238636&title_color=2f81f7"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturvas&theme=github_dark_dimmed&layout=compact&card_width=350"
         alt="Top Programming Languages"
       />
     </GithubSection>
