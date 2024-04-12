@@ -7,10 +7,18 @@ export const GithubSection = styled.div`
   justify-content: space-between;
 
   img {
-    height: 165px;
+    height: 100%;
+    width: auto;
   }
 
   @media (max-width: 768px) {
     display: block;
+    height: auto;
+    width: 100%;
+
+    img {
+      height: auto;
+      width: 100%;
+    }
   }
 `
